@@ -73,7 +73,7 @@ Step 1.3: Client Setup (Secondary CachyOS Laptop)
 
     Connect:
 
-        Enter the Server's IP address (from Step 1.2).
+        Enter the Servers IP address (from Step 1.2).
 
         Click Connect.
 
